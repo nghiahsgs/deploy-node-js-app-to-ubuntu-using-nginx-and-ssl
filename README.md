@@ -1,7 +1,7 @@
 # deploy-node-js-app-to-ubuntu-using-nginx-and-ssl
 deploy node js app to ubuntu using nginx and ssl
 
-Should stop apache 2 and follow this instruction
+*Should stop apache 2 and follow this instruction
 
 ## step 1: install node js
 ```
