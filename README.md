@@ -74,9 +74,8 @@ AFter change dns => Open browser and go to yourdomain.com to make a test
 
 ## step 6: Using cerbot to install ssl for yourdomain.com
 Follow this instruction of cerbot for ubuntu and nginx 
-```
 https://certbot.eff.org/lets-encrypt/ubuntufocal-nginx
-```
+
 
 ```
 sudo snap install core; sudo snap refresh core
